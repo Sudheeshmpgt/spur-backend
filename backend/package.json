@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cloudinary": "^1.30.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.6",
+    "multer": "^1.4.5-lts.1",
+    "multer-storage-cloudinary": "^4.0.0",
+    "nodemon": "^2.0.16",
+    "razorpay": "^2.8.2",
+    "socket.io": "^4.5.1",
+    "twilio": "^3.77.2"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
